@@ -8,8 +8,9 @@ You've learned a lot about web development so far. I want you to take a moment t
   
 * How have you used the problem solving strategies from the first project to overcome challenges so far?
 
-
-
 ---
 
-Your response goes here!
+* I have learned about semantic HTML5 tags and upgraded page created in the Competition.
+* It was not difficult because of extensive but useful content on MDM and w3schools.
+* I had some additional questions for my mentor about tags usage.
+
